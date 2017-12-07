@@ -1,0 +1,17 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.search-form {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.PickACountry{
+  letter-spacing: 0.05rem;
+  margin-right: 1rem;
+}
+
+.go-button {
+  padding: auto 8px;
+}

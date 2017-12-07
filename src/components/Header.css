@@ -1,0 +1,18 @@
+.Header {
+  background-color: #E62119;
+  color: #FFFFFF;
+}
+
+.row {
+  text-align: center;
+}
+
+.vcenter {
+   display: inline-block;
+   vertical-align: middle;
+   float: none;
+}
+
+h1 {
+  letter-spacing: 0.1rem;
+}
